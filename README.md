@@ -1,4 +1,4 @@
-## Abount Me
+## About Me
 
 Hi 👋, I’m **@BEEZED511**. I’m interested in web development and I’m currently learning front-end web dev. My pronouns are He/Them.
 
